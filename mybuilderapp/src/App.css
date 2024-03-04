@@ -1,38 +1,75 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+  background-color: black;
+  font-family:'Roboto Mono', monospace ;
+  /* justify-content: center;
+  align-items: center; */
+  
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.header {
+  background: black;
+  height: 12vh;
+  width: 100%;
+color: white;
+  font-family:'Roboto Mono', monospace;
+  
 }
+.title{
+ text-align:left;
+ padding-left: 10%;
+ font-size:x-large;
+}
+.body{
+  
+  color: white;
+  height: 30vh;
+  width: 70vh;
+  background-color: black;
+  text-align:center;
+  padding-left: 30%;
+ 
+}
+.intro-paragraph{
+ display: block;
+ font: bolder;
+font-size: xx-large;
+padding: 10px 10px 10px 10px;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+}
+.intro-paragraph::after{
+  padding-block-end: 20px;
+}
+.sign-up{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  padding-left: 12vh;
+  padding-top: 2vh;
+  margin-bottom: 4vh;
+}
+.input-email{
+  height: 5vh;
+  width: 40vh;
+  font-size: xx-large;
+  border-radius: 20px;
+  margin-right: 10px;
+  
+}
+.input-button{
+  height: 5.5vh;
+  width: 6vh;
+  padding-left: auto;
+  background-color:#da4167;
+  border-radius: 20px;
+  color:black;
+  font-size: xx-large;
+}
+.input-button, .intro-paragraph{
+  font-family:'Roboto Mono', monospace;
+}
+button:hover{
+  background-color: white;
+}
+.error-message{
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
