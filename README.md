@@ -1,8 +1,8 @@
-# GAB: General Application Builder (Prototype)
+# AutoArchitect-AI: General Application Builder (Prototype)
 
 ## Empowering Web Creativity with AI Overview:
 
-### GAB revolutionizes web development by integrating AI power to make website building intuitive and accessible to all. Dive into the new era of creating digital spaces, whether for business, personal,or creative needs, without the steep learning curve.
+### AutoArchitect-AI revolutionizes web development by integrating AI power to make website building intuitive and accessible to all. Dive into the new era of creating digital spaces, whether for business, personal,or creative needs, without the steep learning curve.
 ## Key Features:
 
     AI-Driven Design: Instantly generate and customize web content and layouts.
@@ -14,7 +14,7 @@
 
 ## Workflow Simplicity:
 
-    Conceptualize: Define your vision and let GAB craft the foundation.
+    Conceptualize: Define your vision and let AutoArchitect-AI craft the foundation.
     Customize: Engage with an easy-to-use platform to shape your unique site.
     Refine: Tailor content and design to your exact specifications.
     Publish: Launch your website with just a click, showcasing your brand to the world.
