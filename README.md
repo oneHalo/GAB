@@ -21,7 +21,7 @@
     
 ## Technology Stack:
 
-    Frontend: React.js, Tailwind CSS
+    Frontend: React.js
     Backend: Node.js, Express.js, JavaScript, Python
     Backend Server: Remix
     AI: GPT, Gemini, Claude (initial stage)
