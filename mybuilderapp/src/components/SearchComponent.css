@@ -1,0 +1,15 @@
+.container {
+    position: fixed; /* Or use 'absolute' if that fits your layout better */
+    bottom: 0; /* Align to the bottom */
+    left: 0; /* Align to the left */
+    width: 100%; /* Take full width of the viewport */
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center items horizontally, if needed */
+    padding: 10px; /* Add some padding around the contents */
+  }
+  
+  .input-field {
+    flex-grow: 1; /* Allow input field to expand */
+    margin-right: 10px; /* Keep your margin to space out button */
+  }
+  

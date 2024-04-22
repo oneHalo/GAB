@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './Invitation.css';
 import React, { useState } from "react";
 import Button from 'react-bootstrap';
